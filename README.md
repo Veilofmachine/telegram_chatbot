@@ -1,1 +1,1 @@
-# project_telegram_chatbot
+# Telegram Chatbot template for ML

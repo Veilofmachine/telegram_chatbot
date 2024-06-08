@@ -1,1 +1,1 @@
-# Telegram Chatbot template for ML
+# Telegram Chatbot for ML
